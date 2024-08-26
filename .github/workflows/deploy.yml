@@ -57,8 +57,8 @@ jobs:
           folder: ./.vitepress/dist
           branch: gh-pages
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          
+          token: ${{ secrets.GH_TOKEN }}
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
