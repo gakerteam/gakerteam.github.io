@@ -154,3 +154,7 @@
 .VPNav {
     border-bottom: 1px solid var(--vp-c-gutter);
 }
+
+.logo {
+    height: 36px !important;
+}

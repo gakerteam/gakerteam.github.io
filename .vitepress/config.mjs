@@ -7,7 +7,7 @@ export default defineConfig({
   description: '集客云文档中心',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: 'https://swstatic.saleswork.cn/docs/gaker_docs_logo.png',
+    logo: 'https://swstatic.saleswork.cn/docs/gaker_docs_logo_5.png',
     footer: {
         copyright: 'Copyright © 2021 上海集客云软件有限公司｜沪ICP备2022019869号-1｜沪公网安备 31011302007178号'
     },
