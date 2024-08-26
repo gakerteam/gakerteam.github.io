@@ -54,6 +54,7 @@ jobs:
       - name: Backup to gh-pages branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
+          folder: ./
           branch: gh-pages
 
       - name: Upload artifact
