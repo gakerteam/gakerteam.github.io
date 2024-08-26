@@ -54,10 +54,7 @@ jobs:
       - name: Backup to gh-pages branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: ./.vitepress/dist
           branch: gh-pages
-        env:
-          token: ${{ secrets.GH_TOKEN }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
