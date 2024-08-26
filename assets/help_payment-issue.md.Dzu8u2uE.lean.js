@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.B4p9iGtR.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"help/payment-issue.md","filePath":"help/payment-issue.md"}'),s={name:"help/payment-issue.md"};function n(p,r,o,c,i,m){return a(),t("div")}const l=e(s,[["render",n]]);export{d as __pageData,l as default};
