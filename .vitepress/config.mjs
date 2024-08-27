@@ -3,11 +3,16 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/',
-  title: ' ',
+  title: '集客云PSA文档',
+  titleTemplate: false,
   description: '集客云文档中心',
+  appearance: false,
+      head: [
+          ['link', { rel: 'icon', href: 'https://swstatic.saleswork.cn/prod/login/favicon.ico' }]
+      ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: 'https://swstatic.saleswork.cn/docs/gaker_docs_logo_5.png',
+    logo: 'https://swstatic.saleswork.cn/docs/gaker_docs_logo_8.png',
     footer: {
         copyright: 'Copyright © 2021 上海集客云软件有限公司｜沪ICP备2022019869号-1｜沪公网安备 31011302007178号'
     },
@@ -92,7 +97,7 @@ export default defineConfig({
       ]
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/gakerteam' }
     ],
     sidebarMenuLabel: '导航',
     outlineTitle: '标题目录',
