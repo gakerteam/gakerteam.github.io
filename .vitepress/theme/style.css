@@ -166,3 +166,7 @@
 .VPNavBarTitle .title span {
     display: none;
 }
+
+.vp-doc h2 {
+    margin: 0;
+}
