@@ -100,7 +100,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/gakerteam' }
     ],
     sidebarMenuLabel: '导航',
-    outlineTitle: '标题目录',
+    outlineTitle: ' ',
     outline: {
         level: [1,3]
     }
