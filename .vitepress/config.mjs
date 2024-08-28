@@ -71,7 +71,7 @@ export default defineConfig({
                     text: '更新日志',
                     collapsed: true,
                     items: [
-                        { text: '集客云 PSA 2024', link: '/hanks/read-more/changelog/gaker-psa-2024' },
+                        { text: '集客云 PSA 2024', link: '/hanks/read-more/changelog/gaker-psa' },
                         { text: '集客云 PSA 2023', link: '/hanks/read-more/changelog/gaker-psa-2023' },
                         { text: '集客云 PSA 2022', link: '/hanks/read-more/changelog/gaker-psa-2022' },
                         { text: '集客云 PSA 2021', link: '/hanks/read-more/changelog/gaker-psa-2021' }
