@@ -7,18 +7,15 @@ hero:
   tagline: 国内领先的"PSA 专业服务自动化"软件服务商，提供"业财一体化"和"流程自动化"解决方案
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 申请使用
+      link: https://www.gaker.com/trial/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 预约咨询
+      link: https://www.gaker.com/appointment/
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Gaker BPM 让流程可视化
+    details: BPM 业务流程管理，提供业务流程建模工具，为企业构建数字化流水线，实现企业流程规范化、透明化管理
+  - title: Gaker SOP 让成功可复制
+    details: SOP 标准作业程序，用于指导员工或用户如何执行特定任务或操作流程，把最佳实践变成可复制的作业指导工具
 ---
-
