@@ -29,7 +29,8 @@ export default defineConfig({
             items: [
                 { text: '付费问题', link: '/help/payment-issue' },
                 { text: '使用问题', link: '/help/usage-issue' },
-                { text: '常见问题', link: '/help/common-issue' }
+                { text: '常见问题', link: '/help/common-issue' },
+                { text: '123', link: '/help/123' }
             ]
         }
       ],
