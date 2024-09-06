@@ -48,7 +48,7 @@ jobs:
 
       - name: Build with VitePress
         run: |
-          npm run docs:build
+          npm run build
           touch ./.vitepress/dist/.nojekyll
 
       - name: Backup to gh-pages branch
