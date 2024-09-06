@@ -20,7 +20,7 @@
 
 **增强富文本**
 
-富文本增加了“插入跟进记录”和“插入业绩指标”两个功能，用于支持各种工作汇报的场景。具体的应用场景，可以参考：[从此，让销售爱上工作汇报](../use-cases/make-sales-fall-in-love-with-work-reporting.md)
+富文本增加了“插入跟进记录”和“插入业绩指标”两个功能，用于支持各种工作汇报的场景。具体的应用场景，可以参考：[从此，让销售爱上工作汇报](../reference/use-cases/make-sales-fall-in-love-with-work-reporting.md)
 
 ![](//swstatic.saleswork.cn/docs/changelog/2023/rich_text_strengthen.png)
 
@@ -311,4 +311,3 @@
 * 按钮的权限不再需要到角色权限中配置，这里即为最终的配置
 
 本次更新暂不支持移动端，移动端的相关适配还在开发中，稍后会随其它新功能一起上线。
-
