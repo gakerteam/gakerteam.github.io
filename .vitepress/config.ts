@@ -197,7 +197,7 @@ export default defineConfig({
         level: [1,3]
     },
     footer: {
-      copyright: 'Copyright © 2021 上海集客云软件有限公司｜沪ICP备2022019869号-1｜沪公网安备 31011302007178号'
+      copyright: 'Copyright © 2021 - 2024 上海集客云软件有限公司｜沪ICP备2022019869号-1｜沪公网安备 31011302007178号'
     }
   },
 })
