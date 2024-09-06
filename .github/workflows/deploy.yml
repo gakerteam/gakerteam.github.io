@@ -48,6 +48,7 @@ jobs:
 
       - name: Build with VitePress
         run: |
+          npx @documate/documate init --framework vue
           npm run build
           touch ./.vitepress/dist/.nojekyll
 
