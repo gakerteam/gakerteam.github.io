@@ -64,7 +64,7 @@ export default defineConfig({
         {
           text: '总览',
           items: [
-            { text: '全局业务流程', link: '/user-guide' },
+            { text: '全局业务流程', link: '/user-guide/' },
             { text: '角色用例', link: '/user-guide/rolecase' }
           ]
         },
@@ -92,7 +92,7 @@ export default defineConfig({
         {
           text: '概述',
           items: [
-            { text: '集客云 aPaaS 平台简介', link: '/admin-guide' }
+            { text: '集客云 aPaaS 平台简介', link: '/admin-guide/' }
           ]
         },
         {
