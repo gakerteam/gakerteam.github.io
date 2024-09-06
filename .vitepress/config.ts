@@ -64,27 +64,27 @@ export default defineConfig({
         {
           text: '总览',
           items: [
-            { text: '全局业务流程', link: '/user-guide/' },
-            { text: '角色用例', link: '/user-guide/rolecase/' }
+            { text: '全局业务流程', link: '/user-guide' },
+            { text: '角色用例', link: '/user-guide/rolecase' }
           ]
         },
         {
           text: '通用操作',
           items: [
-            { text: '注册登录', link: '/user-guide/register/' },
-            { text: '首页导航', link: '/user-guide/homepage/' },
-            { text: '应用管理', link: '/user-guide/app/' },
+            { text: '注册登录', link: '/user-guide/register' },
+            { text: '首页导航', link: '/user-guide/homepage' },
+            { text: '应用管理', link: '/user-guide/app' },
           ]
         },
         {
           text: '业财一体化',
           items: [
-            { text: '销售管理及应收核算', link: '/user-guide/sales/' },
-            { text: '项目管理及工时核算', link: '/user-guide/project/' },
-            { text: '采购管理及应付核算', link: '/user-guide/purchase/' },
-            { text: '其他库存管理', link: '/user-guide/stock/' },
-            { text: '预算管理及费用核算', link: '/user-guide/budget/' },
-            { text: '目标管理及业绩核算', link: '/user-guide/okr/' }
+            { text: '销售管理及应收核算', link: '/user-guide/sales' },
+            { text: '项目管理及工时核算', link: '/user-guide/project' },
+            { text: '采购管理及应付核算', link: '/user-guide/purchase' },
+            { text: '其他库存管理', link: '/user-guide/stock' },
+            { text: '预算管理及费用核算', link: '/user-guide/budget' },
+            { text: '目标管理及业绩核算', link: '/user-guide/okr' }
           ]
         }
       ],
@@ -92,43 +92,43 @@ export default defineConfig({
         {
           text: '概述',
           items: [
-            { text: '集客云 aPaaS 平台简介', link: '/admin-guide/' }
+            { text: '集客云 aPaaS 平台简介', link: '/admin-guide' }
           ]
         },
         {
           text: '基础操作',
           items: [
-            { text: '组织架构', link: '/admin-guide/org/' },
-            { text: '应用管理', link: '/admin-guide/app/' },
-            { text: '应用设置', link: '/admin-guide/app2/' },
-            { text: '权限管理', link: '/admin-guide/auth/' }
+            { text: '组织架构', link: '/admin-guide/org' },
+            { text: '应用管理', link: '/admin-guide/app' },
+            { text: '应用设置', link: '/admin-guide/app2' },
+            { text: '权限管理', link: '/admin-guide/auth' }
           ]
         },
         {
           text: '流程引擎',
           items: [
-            { text: '流程引擎概述', link: '/admin-guide/process/' },
-            { text: '业务流程', link: '/admin-guide/stateflow/' },
-            { text: '审批流程', link: '/admin-guide/approve/' },
-            { text: '自动化', link: '/admin-guide/auto/' }
+            { text: '流程引擎概述', link: '/admin-guide/process' },
+            { text: '业务流程', link: '/admin-guide/stateflow' },
+            { text: '审批流程', link: '/admin-guide/approve' },
+            { text: '自动化', link: '/admin-guide/auto' }
           ]
         },
         {
           text: '扩展插件',
           items: [
-            { text: '映射规则', link: '/admin-guide/mapping/' },
-            { text: '公海池', link: '/admin-guide/pool/' },
-            { text: '下载模版', link: '/admin-guide/template/' },
-            { text: '工商查询', link: '/admin-guide/ic/' },
-            { text: '数据查重', link: '/admin-guide/duplicate/' },
-            { text: '业绩指标', link: '/admin-guide/indicator/' },
-            { text: '数据管理', link: '/admin-guide/data/' }
+            { text: '映射规则', link: '/admin-guide/mapping' },
+            { text: '公海池', link: '/admin-guide/pool' },
+            { text: '下载模版', link: '/admin-guide/template' },
+            { text: '工商查询', link: '/admin-guide/ic' },
+            { text: '数据查重', link: '/admin-guide/duplicate' },
+            { text: '业绩指标', link: '/admin-guide/indicator' },
+            { text: '数据管理', link: '/admin-guide/data' }
           ]
         },
         {
           text: '行业模版',
           items: [
-            { text: '行业模版', link: '/admin-guide/industry/' }
+            { text: '行业模版', link: '/admin-guide/industry' }
           ]
         }
       ],
@@ -136,7 +136,7 @@ export default defineConfig({
         {
           text: '入门',
           items: [
-            { text: '快速了解"集客云 PSA"', link: '/reference/' }
+            { text: '快速了解"集客云 PSA"', link: '/reference' }
           ]
         },
         {
