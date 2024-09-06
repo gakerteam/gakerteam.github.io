@@ -44,11 +44,12 @@ jobs:
         uses: actions/configure-pages@v4
 
       - name: Install dependencies
-        run: npm ci # 或 pnpm install / yarn install / bun install
+        run: | 
+          npm ci
+          npx @documate/documate init --framework vue
 
       - name: Build with VitePress
         run: |
-          npx @documate/documate init --framework vue
           npm run build
           touch ./.vitepress/dist/.nojekyll
 
