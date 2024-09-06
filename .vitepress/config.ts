@@ -173,7 +173,7 @@ export default defineConfig({
           text: '最近更新',
           collapsed: true,
           items: [
-              { text: '集客云 PSA', link: '/change-logs/' }
+              { text: '最近更新日志', link: '/change-logs/' }
           ]
         },
         {
