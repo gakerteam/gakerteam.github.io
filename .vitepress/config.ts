@@ -51,7 +51,7 @@ export default defineConfig({
         ]
       },
       { text: '参考', link: '/reference/' },
-      { text: '4.36.0', 
+      { text: '4.34.8', 
         items: [
           {text: '更新日志', link: '/change-logs/'}
         ]
@@ -136,7 +136,7 @@ export default defineConfig({
         {
           text: '入门',
           items: [
-            { text: '快速了解"集客云 PSA"', link: '/reference' }
+            { text: '快速了解"集客云 PSA"', link: '/reference/' }
           ]
         },
         {
