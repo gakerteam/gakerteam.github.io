@@ -45,6 +45,8 @@ jobs:
 
       - name: Install dependencies
         run: | 
+          rm -rf node_modules
+          rm package-lock.json
           npm install
           npx @documate/documate init --framework vue
 
