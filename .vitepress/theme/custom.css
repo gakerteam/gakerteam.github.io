@@ -112,6 +112,14 @@
   background-color: transparent !important;
 }
 
+.VPHome {
+  margin-bottom: 80px !important;
+}
+
+.VPFooter {
+  border-top: 0.1px solid var(--vp-c-gutter) !important;
+}
+
 @media (min-width: 960px) {
   #app .VPNavBar:not(.has-sidebar):not(.top) {
     background-color: transparent;
