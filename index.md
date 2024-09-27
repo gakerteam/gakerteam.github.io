@@ -16,7 +16,7 @@ hero:
       link: https://www.gaker.com/trial/
     - theme: alt
       text: 预约咨询
-      link: https://www.gaker.com/appointment/
+      link: https://work.weixin.qq.com/ca/cawcde35eae510143c
 
 features:
   - title: Gaker PSA
