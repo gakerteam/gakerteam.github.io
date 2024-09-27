@@ -51,7 +51,7 @@ export default defineConfig({
         ]
       },
       { text: '参考', link: '/reference/' },
-      { text: '4.35.0', 
+      { text: '4.35.5', 
         items: [
           {text: '更新日志', link: '/change-logs/'}
         ]
